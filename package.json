@@ -1,6 +1,6 @@
 {
   "name": "chen-babel-plugin-transform-remove-console",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Remove all eligible console.* functions",
   "homepage": "https://npmdoc.github.io/node-npmdoc-babel-core/build/apidoc.html#apidoc.element.babel-core.traverse.NodePath.prototype.matchesPattern",
   "repository": "https://github.com/AttackXiaoJinJin/chen-babel-plugin-transform-remove-console",
