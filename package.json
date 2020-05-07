@@ -1,0 +1,13 @@
+{
+  "name": "chen-babel-plugin-transform-remove-console",
+  "version": "1.0.0",
+  "description": "Remove all eligible console.* functions",
+  "homepage": "",
+  "bugs":"",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": ["babel-plugin","remove-console"],
+  "author": "webchen",
+  "license": "MIT"
+}
