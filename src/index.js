@@ -71,7 +71,7 @@ module.exports = function ({types:t}) {
 
           if (hasTarget) {return}
         }
-        if (newChenMatchesPattern.call(calleePath,"console", true,t)) {
+        if (chenMatchesPattern.call(calleePath,"console", true,t)) {
           path.remove()
         }
       }
